@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1052442155262",
+    "project_id": "homex-b9070",
+    "storage_bucket": "homex-b9070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052442155262:android:7de46230250846315fedaf",
+        "android_client_info": {
+          "package_name": "com.example.web_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052442155262-l06cig7arp7s4gjq3rhcsg9o2o7qe5i6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.web_app",
+            "certificate_hash": "19df3a57adb305caa62360687248c20c06bba559"
+          }
+        },
+        {
+          "client_id": "1052442155262-vdhjbmmiiur9l47bft9h1gtmvttggt5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwNSD-klfxXpk9WFVzxQsdAs__wdgUPbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052442155262-vdhjbmmiiur9l47bft9h1gtmvttggt5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
